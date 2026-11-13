@@ -27,3 +27,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+### 🐍 My Contributions 🐍
+
+![snake gif](https://raw.githubusercontent.com/Dat-Nicolas/Dat-Nicolas/output/github-contribution-grid-snake-dark.svg)
